@@ -17,7 +17,7 @@ func reLauncher() {
 }
 
 func test(w http.ResponseWriter,r *http.Request)  {
-	io.WriteString(w,"<h1>this is deploy server!</h1>")
+	io.WriteString(w,"<h1>Hello ,sthis is deploy server!</h1>")
 	reLauncher()
 }
 
