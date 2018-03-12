@@ -18,7 +18,7 @@ func reLauncher() {
 
 //git注释
 func test(w http.ResponseWriter,r *http.Request)  {
-	io.WriteString(w,"<h1>Hello ,this is deploy server!</h1>")
+	io.WriteString(w,"<h1>Hello           ,this is deploy server!</h1>")
 	reLauncher()
 }
 
