@@ -6,7 +6,7 @@ import (
 )
 
 func test(w http.ResponseWriter,r *http.Request){
-	io.WriteString(w,"<h1>this is 1.0 version!</h1>")
+	io.WriteString(w,"<h1>this is 3.0 version!</h1>")
 }
 
 func main(){
