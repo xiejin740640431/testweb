@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4ce0367-4495-4643-9ad1-40c2b200037b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/webserver/webserver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webserver/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/main.go" afterDir="false" />
     </list>
     <ignored mask="rest-client.private.env.json" />
@@ -19,7 +20,10 @@
         <entry file="file://$PROJECT_DIR$/webserver/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,7 +48,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="746" />
     <option name="y" value="111" />
     <option name="width" value="1185" />
@@ -64,11 +68,6 @@
             <path>
               <item name="testweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="testweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testweb" type="462c0819:PsiDirectoryNode" />
-              <item name="deployserver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testweb" type="b2602c69:ProjectViewProjectNode" />
@@ -152,7 +151,10 @@
     <entry file="file://$PROJECT_DIR$/webserver/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
